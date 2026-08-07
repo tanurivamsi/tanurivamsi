@@ -1,0 +1,28 @@
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update README with latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: YOUTUBE
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID"
+          max_post_count: 5
+          template: "- [$title]($url)"
+          commit_message: "Updated latest YouTube videos"

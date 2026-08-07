@@ -1,0 +1,23 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Every day at midnight UTC
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: tanurivamsi
