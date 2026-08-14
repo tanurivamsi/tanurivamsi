@@ -22,13 +22,21 @@
 
 ---
 
-## 📈 Profile Statistics
+<!-- ========================================================= -->
+# 🐍 Contribution Snake
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanurivamsi&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tanurivamsi?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/tanurivamsi?affiliations=OWNER&style=for-the-badge&logo=github" alt="Stars" />
-</p>
+<div align="center">
+
+### Watch my contributions get eaten by the snake 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanurivamsi/Tanuri-Vamsi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanurivamsi/Tanuri-Vamsi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tanurivamsi/Tanuri-Vamsi/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
@@ -482,26 +490,6 @@ Modern responsive portfolio showcasing projects, skills, certifications and cont
 - 💼 Secure a Software Developer Role
 
 ---
-<!-- ========================================================= -->
-# 🐍 Contribution Snake
-<!-- ========================================================= -->
-
-<div align="center">
-
-### Watch my contributions get eaten by the snake 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanurivamsi/Tanuri-Vamsi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanurivamsi/Tanuri-Vamsi/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tanurivamsi/Tanuri-Vamsi/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-
-
 # 💬 Random Developer Quote
 
 <div align="center">
