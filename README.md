@@ -60,16 +60,6 @@
   </a>
 </p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanurivamsi&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
 <p align="center">
   <i>✨ Turning ideas into impactful software, one commit at a time.</i>
 </p>
@@ -127,7 +117,7 @@ I believe in **continuous learning**, **clean code**, and transforming innovativ
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanurivamsi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.freepik.com/premium-photo/learning-different-languages-chalkboard_698953-12661.jpg?w=2000"/>
 
 </td>
 
@@ -314,28 +304,6 @@ I believe in **continuous learning**, **clean code**, and transforming innovativ
 
 <div align="center">
 
-### 🚀 GitHub Statistics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanurivamsi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=tanurivamsi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Most Used Languages
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanurivamsi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 ### 📈 Contribution Activity Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanurivamsi&theme=tokyo-night&hide_border=true"/>
@@ -378,7 +346,8 @@ I believe in **continuous learning**, **clean code**, and transforming innovativ
 
 ### ⭐ GitHub Achievements
 
-<img src="https://tanurivamsi.github.io/Myportfolio/"/>
+<img src="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-HYD-055/Python/CGH3234.png"/>
+<img src="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-HYD-055/MySQL/CGH3234.png"/>
 
 </div>
 
@@ -474,11 +443,11 @@ Modern responsive portfolio showcasing projects, skills, certifications and cont
 <div align="center">
 
 <a href="https://github.com/tanurivamsi/MovieMind-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanurivamsi&repo=MovieMind-Analytics&theme=tokyonight&hide_border=true"/>
+<img src="https://th.bing.com/th/id/OIP.c-XE0bWEBJ2oKKlCXSPspwHaEK?w=312&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"/>
 </a>
 
 <a href="https://github.com/tanurivamsi/MicroplasticDetection_ESP32">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tanurivamsi&repo=MicroplasticDetection_ESP32&theme=tokyonight&hide_border=true"/>
+<img src="https://th.bing.com/th/id/OIP.RX0P4ksq2Yn0lsI6vZoG8AHaEK?w=388&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"/>
 </a>
 
 </div>
