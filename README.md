@@ -378,7 +378,7 @@ I believe in **continuous learning**, **clean code**, and transforming innovativ
 
 ### ⭐ GitHub Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=tanurivamsi&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://tanurivamsi.github.io/Myportfolio/"/>
 
 </div>
 
@@ -465,7 +465,7 @@ Python • OpenCV • TensorFlow • ESP32-CAM
 
 Modern responsive portfolio showcasing projects, skills, certifications and contact information.
 
-🔗 https://warm-ideas-033366.framer.app/
+🔗 https://tanurivamsi.github.io/Myportfolio/
 
 ---
 
@@ -473,11 +473,11 @@ Modern responsive portfolio showcasing projects, skills, certifications and cont
 
 <div align="center">
 
-<a href="https://github.com/tanurivamsi/MovieMind">
+<a href="https://github.com/tanurivamsi/MovieMind-Analytics">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanurivamsi&repo=MovieMind-Analytics&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/tanurivamsi/Microplastic-Detection">
+<a href="https://github.com/tanurivamsi/MicroplasticDetection_ESP32">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanurivamsi&repo=MicroplasticDetection_ESP32&theme=tokyonight&hide_border=true"/>
 </a>
 
@@ -531,18 +531,7 @@ Modern responsive portfolio showcasing projects, skills, certifications and cont
 
 ---
 
-# 🎥 Latest YouTube Videos
 
-<div align="center">
-
-> 🎬 **Automatically updated using GitHub Actions**
-
-</div>
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
 
 # 💬 Random Developer Quote
 
