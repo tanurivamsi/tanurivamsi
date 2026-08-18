@@ -180,6 +180,18 @@ I believe in **continuous learning**, **clean code**, and transforming innovativ
 </table>
 
 ---
+# 🎥 Latest YouTube Videos
+
+<div align="center">
+
+> 🎬 **Automatically updated using GitHub Actions**
+
+</div>
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
 
 # 🎯 Current Goals
 
@@ -478,16 +490,27 @@ Modern responsive portfolio showcasing projects, skills, certifications and cont
 ✔ SQL Database Projects
 ```
 
----
 
-# 🎯 2026 Goals
+<!-- ========================================================= -->
+# ⏱️ WakaTime Coding Activity
+<!-- ========================================================= -->
 
-- 🚀 Complete 10+ Production Ready Projects
-- 🤖 Build AI-powered Applications
-- 🌍 Contribute to Open Source
-- 📚 Master Data Structures & Algorithms
-- ☁️ Learn AWS & Docker
-- 💼 Secure a Software Developer Role
+<div align="center">
+
+### 💻 My Coding Activity — Last 7 Days
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanurivamsi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
+
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+
+> 🚀 Tracking my coding journey and continuously improving every day.
+
+</div>
 
 ---
 # 💬 Random Developer Quote
