@@ -2,7 +2,6 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    # Every day at midnight UTC
     - cron: "0 0 * * *"
 
   workflow_dispatch:
@@ -15,8 +14,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzk/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
