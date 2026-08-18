@@ -499,12 +499,13 @@ Modern responsive portfolio showcasing projects, skills, certifications and cont
 
 ### 💻 My Coding Activity — Last 7 Days
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanurivamsi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="WakaTime Stats"/>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+---
 
 <div align="center">
 
