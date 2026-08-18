@@ -22,7 +22,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: YOUTUBE
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=YOUR_CHANNEL_ID"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCpDunW_coQQS-htXvh47CYA"
           max_post_count: 5
           template: "- [$title]($url)"
           commit_message: "Updated latest YouTube videos"
