@@ -2,7 +2,6 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Runs every day at midnight UTC
     - cron: "0 0 * * *"
 
   workflow_dispatch:
@@ -19,7 +18,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update README with WakaTime Stats
+      - name: Update WakaTime Stats
         uses: athul/waka-readme@v0.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -29,5 +28,5 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: false
           SHOW_TOTAL: true
-          BLOCKS: ░▒▓█
+          BLOCKS: "░▒▓█"
           LANG_COUNT: 8
